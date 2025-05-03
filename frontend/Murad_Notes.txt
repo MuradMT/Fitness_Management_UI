@@ -1,0 +1,11 @@
+npm install react-router-dom axios react-hot-toast @mui/x-date-pickers date-fns @mui/material
+npm install --save-dev @vitejs/plugin-react
+npm i @emotion/react @emotion/styled
+npm install @mui/icons-material
+npm install jwt-decode
+npm i notistack
+npm i react-chartjs-2
+npm i react-leaflet
+npm i recharts
+npm install @react-oauth/google react-facebook-login-lite
+npm install hellojs
