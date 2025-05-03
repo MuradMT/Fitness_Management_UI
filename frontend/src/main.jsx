@@ -21,4 +21,3 @@ createRoot(document.getElementById('root')).render(
   </StrictMode>
 );
 
-//Our app main entry point,write this comment for testing purposes before deployment
