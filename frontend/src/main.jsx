@@ -20,3 +20,5 @@ createRoot(document.getElementById('root')).render(
     </GoogleOAuthProvider>
   </StrictMode>
 );
+
+//Our app main entry point,write this comment for testing purposes before deployment
